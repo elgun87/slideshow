@@ -1,0 +1,33 @@
+body{
+    background: lightgray;
+}
+
+.container {
+    height: auto;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.main {
+    width: 560px;
+    margin: 0 auto;
+}
+.div_button {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+button {
+    height: 100px;
+    width: 200px;
+    margin: 50px auto;
+    font-size: medium;
+}
+
+#display{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
